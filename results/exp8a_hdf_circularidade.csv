@@ -1,0 +1,5 @@
+divisao,top 5,posição de air-proc (ΔT),posição de rpm,posição de rpm*torque,posição de torque*wear
+semente 0,"air/proc (0.232), air-proc (0.107), air (0.008), air+proc (0.005), proc (0.004)",2,12,38,32
+semente 1,"air/proc (0.172), air-proc (0.117), air+proc (0.016), air (0.016), proc (0.015)",2,21,7,18
+semente 2,"air-proc (0.162), air/proc (0.113), air (0.051), proc-torque (0.011), air*torque (0.011)",1,46,30,32
+semente 3,"air/proc (0.099), air-proc (0.069), air (0.011), air-torque (0.010), air*proc (0.008)",2,44,25,20

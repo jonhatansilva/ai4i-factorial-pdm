@@ -1,0 +1,21 @@
+alvo,variante,protocolo,representacao,balanceamento,modelo,representacao:modelo,Residual,fator dominante
+failure,S1 original,0.068,0.103,0.019,0.644,0.077,0.069,modelo
+failure,S2 sem logística,0.094,0.274,0.032,0.388,0.067,0.111,modelo
+failure,S3 logit,0.091,0.115,0.02,0.61,0.065,0.069,modelo
+failure,S2+S3,0.138,0.28,0.032,0.365,0.033,0.106,modelo
+HDF,S1 original,,0.177,0.002,0.389,0.391,0.029,modelo
+HDF,S2 sem logística,,0.3,0.004,0.252,0.405,0.025,representacao
+HDF,S3 logit,,0.18,0.0,0.605,0.148,0.057,modelo
+HDF,S2+S3,,0.392,0.001,0.363,0.138,0.09,representacao
+PWF,S1 original,0.003,0.453,0.003,0.099,0.159,0.182,representacao
+PWF,S2 sem logística,0.0,0.645,0.005,0.026,0.098,0.168,representacao
+PWF,S3 logit,0.001,0.42,0.007,0.196,0.168,0.135,representacao
+PWF,S2+S3,0.005,0.635,0.019,0.041,0.081,0.148,representacao
+OSF,S1 original,0.0,0.33,0.003,0.206,0.357,0.07,representacao
+OSF,S2 sem logística,0.0,0.404,0.005,0.173,0.313,0.065,representacao
+OSF,S3 logit,0.0,0.6,0.003,0.046,0.131,0.164,representacao
+OSF,S2+S3,0.001,0.623,0.003,0.05,0.112,0.157,representacao
+TWF,S1 original,0.179,0.005,0.025,0.238,0.005,0.462,modelo
+TWF,S2 sem logística,0.116,0.009,0.048,0.237,0.005,0.481,modelo
+TWF,S3 logit,0.156,0.011,0.03,0.32,0.016,0.387,modelo
+TWF,S2+S3,0.111,0.017,0.056,0.3,0.015,0.398,modelo

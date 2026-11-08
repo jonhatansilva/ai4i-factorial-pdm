@@ -1,0 +1,21 @@
+alvo,protocolo,modelo,brutas,+dT,+power,+strain,todas,todas-dT,todas-power,todas-strain
+HDF,aleatorio,Random Forest,0.936,0.995,0.909,0.942,0.992,0.909,0.996,0.996
+HDF,aleatorio,Árvore rasa,0.457,0.997,0.457,0.457,0.997,0.457,0.997,0.997
+HDF,temporal,Random Forest,,,,,,,,
+HDF,temporal,Árvore rasa,,,,,,,,
+OSF,aleatorio,Random Forest,0.897,0.887,0.897,1.0,1.0,1.0,1.0,0.893
+OSF,aleatorio,Árvore rasa,0.443,0.397,0.475,0.984,0.984,0.984,0.984,0.435
+OSF,temporal,Random Forest,0.855,0.831,0.863,1.0,1.0,1.0,1.0,0.868
+OSF,temporal,Árvore rasa,0.396,0.396,0.349,0.988,0.988,0.988,0.988,0.349
+PWF,aleatorio,Random Forest,0.835,0.794,0.998,0.816,0.998,0.999,0.799,0.999
+PWF,aleatorio,Árvore rasa,0.72,0.719,0.991,0.724,0.991,0.991,0.724,0.991
+PWF,temporal,Random Forest,0.785,0.738,1.0,0.785,1.0,1.0,0.744,1.0
+PWF,temporal,Árvore rasa,0.683,0.683,1.0,0.683,1.0,1.0,0.683,1.0
+TWF,aleatorio,Random Forest,0.108,0.105,0.101,0.094,0.106,0.108,0.113,0.107
+TWF,aleatorio,Árvore rasa,0.059,0.053,0.059,0.059,0.053,0.059,0.053,0.053
+TWF,temporal,Random Forest,0.086,0.088,0.091,0.082,0.102,0.101,0.096,0.081
+TWF,temporal,Árvore rasa,0.057,0.03,0.057,0.058,0.03,0.058,0.03,0.031
+failure,aleatorio,Random Forest,0.748,0.824,0.82,0.811,0.898,0.867,0.859,0.875
+failure,aleatorio,Árvore rasa,0.445,0.659,0.537,0.634,0.859,0.68,0.819,0.723
+failure,temporal,Random Forest,0.64,0.668,0.715,0.744,0.804,0.788,0.76,0.762
+failure,temporal,Árvore rasa,0.358,0.389,0.401,0.638,0.635,0.578,0.64,0.375

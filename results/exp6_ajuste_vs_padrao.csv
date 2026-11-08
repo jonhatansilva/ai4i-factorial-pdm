@@ -1,0 +1,73 @@
+alvo,protocolo,representacao,modelo,PR_AUC padrão,PR_AUC ajustado,ganho do ajuste
+failure,temporal,brutas,Logística,0.371,0.402,0.031
+failure,temporal,brutas,Árvore rasa,0.314,0.395,0.081
+failure,temporal,brutas,Random Forest,0.702,0.664,-0.038
+failure,temporal,brutas,Gradient Boosting,0.692,0.734,0.042
+failure,temporal,fisicas,Logística,0.372,0.422,0.05
+failure,temporal,fisicas,Árvore rasa,0.543,0.746,0.203
+failure,temporal,fisicas,Random Forest,0.812,0.779,-0.033
+failure,temporal,fisicas,Gradient Boosting,0.787,0.8,0.013
+failure,temporal,auto,Logística,0.404,0.418,0.014
+failure,temporal,auto,Árvore rasa,0.762,0.719,-0.043
+failure,temporal,auto,Random Forest,0.748,0.78,0.032
+failure,temporal,auto,Gradient Boosting,0.805,0.802,-0.003
+failure,aleatorio,brutas,Logística,0.489,0.489,0.0
+failure,aleatorio,brutas,Árvore rasa,0.434,0.617,0.183
+failure,aleatorio,brutas,Random Forest,0.723,0.75,0.027
+failure,aleatorio,brutas,Gradient Boosting,0.788,0.813,0.025
+failure,aleatorio,fisicas,Logística,0.476,0.519,0.043
+failure,aleatorio,fisicas,Árvore rasa,0.842,0.838,-0.004
+failure,aleatorio,fisicas,Random Forest,0.899,0.901,0.002
+failure,aleatorio,fisicas,Gradient Boosting,0.877,0.884,0.007
+failure,aleatorio,auto,Logística,0.512,0.535,0.023
+failure,aleatorio,auto,Árvore rasa,0.822,0.829,0.007
+failure,aleatorio,auto,Random Forest,0.869,0.889,0.02
+failure,aleatorio,auto,Gradient Boosting,0.881,0.875,-0.006
+PWF,temporal,brutas,Logística,0.695,0.836,0.141
+PWF,temporal,brutas,Árvore rasa,0.7,0.803,0.103
+PWF,temporal,brutas,Random Forest,0.826,0.866,0.04
+PWF,temporal,brutas,Gradient Boosting,0.857,0.904,0.047
+PWF,temporal,fisicas,Logística,0.693,0.833,0.14
+PWF,temporal,fisicas,Árvore rasa,1.0,1.0,0.0
+PWF,temporal,fisicas,Random Forest,1.0,1.0,0.0
+PWF,temporal,fisicas,Gradient Boosting,1.0,1.0,0.0
+PWF,temporal,auto,Logística,0.968,0.997,0.029
+PWF,temporal,auto,Árvore rasa,1.0,1.0,0.0
+PWF,temporal,auto,Random Forest,0.997,1.0,0.003
+PWF,temporal,auto,Gradient Boosting,1.0,1.0,0.0
+PWF,aleatorio,brutas,Logística,0.734,0.891,0.157
+PWF,aleatorio,brutas,Árvore rasa,0.857,0.786,-0.071
+PWF,aleatorio,brutas,Random Forest,0.85,0.898,0.048
+PWF,aleatorio,brutas,Gradient Boosting,0.873,0.934,0.061
+PWF,aleatorio,fisicas,Logística,0.74,0.829,0.089
+PWF,aleatorio,fisicas,Árvore rasa,1.0,1.0,0.0
+PWF,aleatorio,fisicas,Random Forest,1.0,1.0,0.0
+PWF,aleatorio,fisicas,Gradient Boosting,1.0,1.0,0.0
+PWF,aleatorio,auto,Logística,0.972,0.997,0.025
+PWF,aleatorio,auto,Árvore rasa,1.0,1.0,0.0
+PWF,aleatorio,auto,Random Forest,1.0,1.0,0.0
+PWF,aleatorio,auto,Gradient Boosting,1.0,1.0,0.0
+OSF,temporal,brutas,Logística,0.935,0.959,0.024
+OSF,temporal,brutas,Árvore rasa,0.474,0.679,0.205
+OSF,temporal,brutas,Random Forest,0.873,0.912,0.039
+OSF,temporal,brutas,Gradient Boosting,0.874,0.911,0.037
+OSF,temporal,fisicas,Logística,0.996,1.0,0.004
+OSF,temporal,fisicas,Árvore rasa,1.0,1.0,0.0
+OSF,temporal,fisicas,Random Forest,1.0,1.0,0.0
+OSF,temporal,fisicas,Gradient Boosting,1.0,1.0,0.0
+OSF,temporal,auto,Logística,0.977,0.99,0.013
+OSF,temporal,auto,Árvore rasa,1.0,1.0,0.0
+OSF,temporal,auto,Random Forest,0.943,1.0,0.057
+OSF,temporal,auto,Gradient Boosting,0.999,1.0,0.001
+OSF,aleatorio,brutas,Logística,0.955,0.976,0.021
+OSF,aleatorio,brutas,Árvore rasa,0.506,0.723,0.217
+OSF,aleatorio,brutas,Random Forest,0.937,0.95,0.013
+OSF,aleatorio,brutas,Gradient Boosting,0.936,0.954,0.018
+OSF,aleatorio,fisicas,Logística,0.993,1.0,0.007
+OSF,aleatorio,fisicas,Árvore rasa,1.0,1.0,0.0
+OSF,aleatorio,fisicas,Random Forest,1.0,1.0,0.0
+OSF,aleatorio,fisicas,Gradient Boosting,1.0,1.0,0.0
+OSF,aleatorio,auto,Logística,0.983,0.987,0.004
+OSF,aleatorio,auto,Árvore rasa,0.836,0.995,0.159
+OSF,aleatorio,auto,Random Forest,0.944,0.997,0.053
+OSF,aleatorio,auto,Gradient Boosting,1.0,0.996,-0.004

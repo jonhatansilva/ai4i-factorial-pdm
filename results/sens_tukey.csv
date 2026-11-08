@@ -1,0 +1,61 @@
+alvo,fator,group1,group2,meandiff,p-adj,lower,upper,reject
+failure,representacao,auto,brutas,-0.1161,0.0,-0.1781,-0.054,True
+failure,representacao,auto,fisicas,0.0248,0.6144,-0.0373,0.0869,False
+failure,representacao,brutas,fisicas,0.1409,0.0,0.0788,0.2029,True
+failure,balanceamento,class_weight,nenhum,0.0066,0.9692,-0.0583,0.0714,False
+failure,balanceamento,class_weight,smote,-0.0529,0.1342,-0.1178,0.0119,False
+failure,balanceamento,nenhum,smote,-0.0595,0.0798,-0.1244,0.0054,False
+failure,modelo,Gradient Boosting,Logística,-0.3789,0.0,-0.4285,-0.3293,True
+failure,modelo,Gradient Boosting,Random Forest,-0.0303,0.3916,-0.0799,0.0193,False
+failure,modelo,Gradient Boosting,Árvore rasa,-0.2252,0.0,-0.2748,-0.1756,True
+failure,modelo,Logística,Random Forest,0.3486,0.0,0.299,0.3982,True
+failure,modelo,Logística,Árvore rasa,0.1537,0.0,0.1041,0.2033,True
+failure,modelo,Random Forest,Árvore rasa,-0.1949,0.0,-0.2445,-0.1453,True
+HDF,representacao,auto,brutas,-0.1259,0.0,-0.1894,-0.0624,True
+HDF,representacao,auto,fisicas,0.0037,0.9897,-0.0599,0.0672,False
+HDF,representacao,brutas,fisicas,0.1295,0.0,0.066,0.1931,True
+HDF,balanceamento,class_weight,nenhum,0.0158,0.8543,-0.0541,0.0857,False
+HDF,balanceamento,class_weight,smote,0.0025,0.9961,-0.0674,0.0724,False
+HDF,balanceamento,nenhum,smote,-0.0133,0.8941,-0.0832,0.0566,False
+HDF,modelo,Gradient Boosting,Logística,-0.206,0.0,-0.2756,-0.1364,True
+HDF,modelo,Gradient Boosting,Random Forest,-0.0221,0.8427,-0.0917,0.0475,False
+HDF,modelo,Gradient Boosting,Árvore rasa,-0.168,0.0,-0.2376,-0.0984,True
+HDF,modelo,Logística,Random Forest,0.1839,0.0,0.1143,0.2535,True
+HDF,modelo,Logística,Árvore rasa,0.038,0.4895,-0.0316,0.1076,False
+HDF,modelo,Random Forest,Árvore rasa,-0.1459,0.0,-0.2155,-0.0763,True
+PWF,representacao,auto,brutas,-0.1947,0.0,-0.2267,-0.1627,True
+PWF,representacao,auto,fisicas,-0.0324,0.0466,-0.0644,-0.0004,True
+PWF,representacao,brutas,fisicas,0.1623,0.0,0.1303,0.1943,True
+PWF,balanceamento,class_weight,nenhum,0.0149,0.6946,-0.0283,0.0581,False
+PWF,balanceamento,class_weight,smote,0.013,0.7573,-0.0302,0.0562,False
+PWF,balanceamento,nenhum,smote,-0.0019,0.9941,-0.0451,0.0413,False
+PWF,modelo,Gradient Boosting,Logística,-0.087,0.0001,-0.1391,-0.0349,True
+PWF,modelo,Gradient Boosting,Random Forest,0.0177,0.8166,-0.0344,0.0698,False
+PWF,modelo,Gradient Boosting,Árvore rasa,-0.031,0.4169,-0.0831,0.0211,False
+PWF,modelo,Logística,Random Forest,0.1047,0.0,0.0525,0.1568,True
+PWF,modelo,Logística,Árvore rasa,0.056,0.0297,0.0039,0.1081,True
+PWF,modelo,Random Forest,Árvore rasa,-0.0487,0.0767,-0.1008,0.0034,False
+OSF,representacao,auto,brutas,-0.1521,0.0,-0.1907,-0.1136,True
+OSF,representacao,auto,fisicas,0.028,0.2018,-0.0105,0.0666,False
+OSF,representacao,brutas,fisicas,0.1802,0.0,0.1416,0.2187,True
+OSF,balanceamento,class_weight,nenhum,0.018,0.6395,-0.029,0.065,False
+OSF,balanceamento,class_weight,smote,0.0116,0.8294,-0.0354,0.0587,False
+OSF,balanceamento,nenhum,smote,-0.0064,0.9454,-0.0534,0.0406,False
+OSF,modelo,Gradient Boosting,Logística,0.0039,0.9976,-0.0494,0.0571,False
+OSF,modelo,Gradient Boosting,Random Forest,-0.0326,0.391,-0.0858,0.0207,False
+OSF,modelo,Gradient Boosting,Árvore rasa,-0.1503,0.0,-0.2035,-0.0971,True
+OSF,modelo,Logística,Random Forest,-0.0364,0.2905,-0.0897,0.0168,False
+OSF,modelo,Logística,Árvore rasa,-0.1541,0.0,-0.2074,-0.1009,True
+OSF,modelo,Random Forest,Árvore rasa,-0.1177,0.0,-0.1709,-0.0645,True
+TWF,representacao,auto,brutas,0.003,0.8653,-0.0108,0.0168,False
+TWF,representacao,auto,fisicas,-0.0043,0.7422,-0.0181,0.0095,False
+TWF,representacao,brutas,fisicas,-0.0073,0.4256,-0.0211,0.0065,False
+TWF,balanceamento,class_weight,nenhum,0.007,0.4508,-0.0067,0.0207,False
+TWF,balanceamento,class_weight,smote,-0.0086,0.3026,-0.0223,0.0051,False
+TWF,balanceamento,nenhum,smote,-0.0156,0.0209,-0.0293,-0.0019,True
+TWF,modelo,Gradient Boosting,Logística,0.0081,0.5234,-0.0073,0.0234,False
+TWF,modelo,Gradient Boosting,Random Forest,0.0002,1.0,-0.0151,0.0156,False
+TWF,modelo,Gradient Boosting,Árvore rasa,-0.0422,0.0,-0.0576,-0.0269,True
+TWF,modelo,Logística,Random Forest,-0.0079,0.5457,-0.0232,0.0075,False
+TWF,modelo,Logística,Árvore rasa,-0.0503,0.0,-0.0657,-0.035,True
+TWF,modelo,Random Forest,Árvore rasa,-0.0424,0.0,-0.0578,-0.0271,True

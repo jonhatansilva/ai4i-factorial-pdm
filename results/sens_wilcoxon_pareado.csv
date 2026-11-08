@@ -1,0 +1,41 @@
+alvo,fator,comparação,n pares,diferença mediana,diferença média,% pares em que B > A,p,p (Holm),significativo (5%)
+failure,representacao,fisicas − brutas,96,0.121,0.141,85.4,4.9e-14,1.7e-12,sim
+failure,representacao,auto − brutas,96,0.096,0.116,87.5,1.3e-14,4.6e-13,sim
+failure,representacao,fisicas − auto,96,0.008,0.025,66.7,0.00064,0.013,sim
+failure,balanceamento,smote − nenhum,96,-0.058,-0.059,15.6,1.7e-11,5.2e-10,sim
+failure,balanceamento,class_weight − nenhum,96,-0.012,-0.007,36.5,0.0082,0.13,não
+failure,balanceamento,smote − class_weight,96,-0.029,-0.053,7.3,4.6e-15,1.6e-13,sim
+failure,modelo,Gradient Boosting − Random Forest,72,0.019,0.03,70.8,5.1e-06,0.00013,sim
+failure,modelo,Random Forest − Árvore rasa,72,0.231,0.195,97.2,2.2e-13,7.3e-12,sim
+HDF,representacao,fisicas − brutas,48,0.021,0.13,64.6,3.8e-05,0.00092,sim
+HDF,representacao,auto − brutas,48,0.022,0.126,79.2,2.5e-07,7.1e-06,sim
+HDF,representacao,fisicas − auto,48,0.0,0.004,29.2,0.88,1,não
+HDF,balanceamento,smote − nenhum,48,-0.001,-0.013,20.8,0.026,0.31,não
+HDF,balanceamento,class_weight − nenhum,48,0.0,-0.016,29.2,0.042,0.38,não
+HDF,balanceamento,smote − class_weight,48,0.0,0.002,41.7,0.24,1,não
+HDF,modelo,Gradient Boosting − Random Forest,36,0.006,0.022,91.7,5.4e-07,1.5e-05,sim
+HDF,modelo,Random Forest − Árvore rasa,36,0.03,0.146,63.9,0.00017,0.0036,sim
+PWF,representacao,fisicas − brutas,96,0.148,0.162,89.6,5.4e-16,2e-14,sim
+PWF,representacao,auto − brutas,96,0.17,0.195,100.0,1.8e-17,7.1e-16,sim
+PWF,representacao,fisicas − auto,96,0.0,-0.032,33.3,0.0049,0.083,não
+PWF,balanceamento,smote − nenhum,96,0.0,-0.002,50.0,0.49,1,não
+PWF,balanceamento,class_weight − nenhum,96,0.0,-0.015,49.0,0.75,1,não
+PWF,balanceamento,smote − class_weight,96,0.002,0.013,55.2,0.00099,0.019,sim
+PWF,modelo,Gradient Boosting − Random Forest,72,-0.016,-0.018,29.2,0.01,0.15,não
+PWF,modelo,Random Forest − Árvore rasa,72,0.0,0.049,41.7,0.0017,0.03,sim
+OSF,representacao,fisicas − brutas,96,0.094,0.18,100.0,1.8e-17,7.1e-16,sim
+OSF,representacao,auto − brutas,96,0.068,0.152,94.8,2.5e-16,9.7e-15,sim
+OSF,representacao,fisicas − auto,96,0.011,0.028,77.1,6.8e-12,2.1e-10,sim
+OSF,balanceamento,smote − nenhum,96,0.0,-0.006,51.0,0.074,0.59,não
+OSF,balanceamento,class_weight − nenhum,96,0.0,-0.018,45.8,0.87,1,não
+OSF,balanceamento,smote − class_weight,96,0.0,0.012,52.1,0.00085,0.017,sim
+OSF,modelo,Gradient Boosting − Random Forest,72,0.018,0.033,70.8,8.8e-08,2.5e-06,sim
+OSF,modelo,Random Forest − Árvore rasa,72,0.021,0.118,52.8,0.00015,0.0034,sim
+TWF,representacao,fisicas − brutas,96,-0.003,-0.007,36.5,0.009,0.14,não
+TWF,representacao,auto − brutas,96,0.001,-0.003,51.0,0.53,1,não
+TWF,representacao,fisicas − auto,96,-0.002,-0.004,37.5,0.036,0.36,não
+TWF,balanceamento,smote − nenhum,96,-0.008,-0.016,32.3,2.9e-05,0.00073,sim
+TWF,balanceamento,class_weight − nenhum,96,-0.002,-0.007,45.8,0.033,0.36,não
+TWF,balanceamento,smote − class_weight,96,-0.002,-0.009,41.7,0.015,0.19,não
+TWF,modelo,Gradient Boosting − Random Forest,72,-0.0,-0.0,50.0,0.81,1,não
+TWF,modelo,Random Forest − Árvore rasa,72,0.031,0.042,94.4,4.4e-12,1.4e-10,sim

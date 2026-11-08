@@ -1,0 +1,11 @@
+alvo,protocolo,ganho_fisicas,ganho_auto
+HDF,aleatorio,0.13,0.126
+HDF,temporal,,
+OSF,aleatorio,0.173,0.146
+OSF,temporal,0.188,0.158
+PWF,aleatorio,0.156,0.173
+PWF,temporal,0.169,0.217
+TWF,aleatorio,-0.008,0.0
+TWF,temporal,-0.007,-0.006
+failure,aleatorio,0.147,0.113
+failure,temporal,0.134,0.119
